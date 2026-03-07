@@ -83,13 +83,17 @@ I'm a **passionate Software Engineer** with expertise in full-stack web developm
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
 </p>
 
-### Tools & Design
+### Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+### Design
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
@@ -113,12 +117,12 @@ I'm a **passionate Software Engineer** with expertise in full-stack web developm
     </td>
     <td width="50%" valign="top">
       <h3>📚 SmartBook — Book Store Management System</h3>
-      <p>Automates daily bookstore activities including <strong>billing, inventory updates, sales recording,</strong> and <strong>report generation</strong> in a centralized database.</p>
+      <p>Automates daily bookstore activities including <strong>billing, inventory updates, sales recording,</strong> and <strong>report generation</strong> in a centralized <strong>MySQL</strong> database.</p>
       <ul>
-        <li>🧾 Automated billing &amp; receipt generation</li>
-        <li>📦 Real-time inventory management</li>
-        <li>📊 Sales analytics &amp; reporting</li>
-        <li>🗄️ Structured relational database design</li>
+        <li>🧾 Automated billing &amp; receipt generation with <strong>PHP</strong></li>
+        <li>📦 Real-time inventory management &amp; stock tracking</li>
+        <li>📊 Sales analytics &amp; report generation</li>
+        <li>🗄️ Normalized <strong>MySQL</strong> relational database design</li>
       </ul>
       <a href="https://github.com/khairullah770/Book-Store-Management-System">
         <img src="https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -141,12 +145,12 @@ I'm a **passionate Software Engineer** with expertise in full-stack web developm
     </td>
     <td width="50%" valign="top">
       <h3>🌀 Vortex Programming Language</h3>
-      <p>A <strong>custom-built interpreted programming language</strong> named Vortex, designed from scratch with 18 unique language features.</p>
+      <p>A <strong>custom-built interpreted programming language</strong> named Vortex, designed from scratch with a custom lexer, LL(1) parser, and 18 language features.</p>
       <ul>
-        <li>🔤 Custom lexer, parser &amp; interpreter in <strong>Python</strong></li>
-        <li>🎛️ 18 unique language features</li>
-        <li>🔁 Advanced control structures</li>
-        <li>🛡️ Built-in error handling mechanisms</li>
+        <li>🔤 Custom lexer &amp; LL(1)/recursive-descent parser in <strong>Python &amp; C++</strong></li>
+        <li>🔁 Control flow: <code>when/whenelse</code>, <code>repeat</code>, <code>cycle</code>, <code>select-case</code></li>
+        <li>🛡️ Error handling with <code>try-catch</code>, functions with default params</li>
+        <li>📦 List declarations, object handling &amp; block scoping</li>
       </ul>
       <a href="https://github.com/khairullah770/Vortex-Programming-Language">
         <img src="https://img.shields.io/badge/View%20Repo-100000?style=for-the-badge&logo=github&logoColor=white"/>
