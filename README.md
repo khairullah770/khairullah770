@@ -226,7 +226,7 @@ class Khairullah:
 
 [![GitHub](https://img.shields.io/badge/GitHub-khairullah770-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khairullah770)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/khairullah770/portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](malto:khairullahkhaliq770@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khairullahkhaliq770@gmail.com)
 
 </div>
 
