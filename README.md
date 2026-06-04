@@ -22,7 +22,7 @@ class Khairullah:
     role       = "Full-Stack Developer & Software Engineer"
     location   = "🌍 Available Worldwide (Remote)"
     languages  = ["Python", "TypeScript", "JavaScript", "PHP", "C++"]
-    frameworks = ["FastAPI", "Node.js", "Express.js", "Next.js", "React"]
+    frameworks = ["FastAPI", "Node.js", "Express.js", "Next.js", "React","React Native"]
     databases  = ["MongoDB", "MySQL", "PostgreSQL"]
     interests  = ["Backend APIs", "Web Development", "Programming Languages", "Computer Graphics"]
     currently  = "Building full-stack applications and exploring new technologies"
